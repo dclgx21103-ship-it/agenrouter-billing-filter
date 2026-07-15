@@ -1,0 +1,2 @@
+# agenrouter-billing-filter
+过滤掉agentrouter的billing字段在opencode中
